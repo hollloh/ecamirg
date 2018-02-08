@@ -1,0 +1,48 @@
+
+
+
+* {
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  body {
+    background: #000;
+  }
+  
+  h1 {
+    font-family: monospace;
+    color: #fff;
+    margin: 5% 5% 19% 5%;
+    padding: 5%;
+  }
+  
+  .grimacepic {
+    background-color: #050505;
+    width: 75%;
+    height: 75%;
+    margin: 5%;
+    padding: 5%;
+  }
+  
+  p {
+    background-color: #050505;
+    color: #fff;
+    font-family: monospace;
+    margin: 5%;
+    padding: 5%;
+  }
+  
+  a:link,
+  a:visited,
+  a:hover,
+  a:active {
+    color: #fff;
+    text-decoration: none;
+    font-family: monospace;
+  }
+  
+  
+  
+  
+  
